@@ -4,4 +4,7 @@ def plus():
     result = num1 + num2
     print(f"Сумма чисел {num1} и {num2} = {result}")
 
+def minus():
+    result = num1 - num2
+    print(f"Разность чисел {num1} и {num2} = {result}")
 
